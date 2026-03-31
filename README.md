@@ -37,3 +37,8 @@ Clone the repository and run the script:
 ```bash
 git clone https://github.com/Python-Swift15/Memory-Game.git
 cd Memory-Game
+```
+
+## License
+
+Open source - Feel free to take inspiration!
